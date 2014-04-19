@@ -1,0 +1,10 @@
+Incremental PBKDF2
+==================
+
+To download and install this package run:
+
+go get github.com/mxk/go-pbkdf2/pbkdf2
+
+The documentation is available at:
+
+http://godoc.org/github.com/mxk/go-pbkdf2/pbkdf2
